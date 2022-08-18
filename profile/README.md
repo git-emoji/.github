@@ -6,4 +6,6 @@ Technically because they're terse (single-letter words), meaningful, and availab
 
 ## Open dataset
 
-To build tools we'd first need a viable dataset of emojis and their contextual meanings. To make this dataset easily accessible there's this repository, `git-emoji/dataset-js`, which provides the data in JavaScript importable format. The dataset is published under MIT so **everyone** can openly use it. We'd love to see your contributions as issues or pull requests. 🍏
+To build tools we'd first need a viable dataset of emojis and their contextual meanings. To make this dataset easily accessible there's this repository, [`git-emoji/dataset-js`][dataset], which provides the data in JavaScript importable format. The dataset is published under MIT so **everyone** can openly use it. We'd love to see your contributions as issues or pull requests. 🍏
+
+[dataset]: https://github.com/git-emoji/dataset-js
