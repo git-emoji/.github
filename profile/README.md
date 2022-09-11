@@ -1,6 +1,6 @@
 **`git-emoji`** is a side project that aims at making tools (e.g., IDE/browser extensions, CLI tools, or git hooks) promoting the usage of emoji (aka, smiley or emoticon) in software development process, starting from git commit messages.
 
-## Why Emojis?
+## Why emojis?
 
 Technically because they're terse (single-letter words), meaningful, and available virtually everywhere. In some way, they're the most friendly beings in textual context to our brain's image perception where instantaneous semantic extraction happens. So, reading emojis is quite faster than interpreting texts. Another reason is seeing emojis around is fun and cute. 😍
 
